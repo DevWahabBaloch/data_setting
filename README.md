@@ -1,16 +1,27 @@
-# data_setting
+# Edit Data via Bottom Sheet
 
-A new Flutter project.
+Edit on-screen data through a modal bottom sheet with text fields in Flutter.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Updates the values shown on a screen through a form in a modal bottom sheet.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Modal bottom sheet with text fields
+- Updates the displayed data with `setState`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech stack
+
+Flutter · Dart
+
+## Getting started
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+*This is a focused practice project. For production work, see my [GitHub profile](https://github.com/DevWahabBaloch).*
